@@ -8,6 +8,7 @@
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS, USING Binary Cross Entropy
 ![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Pix2pixBCE.PNG)
 ### 3. SAT2MAP 
+#### THE MODEL WAS TRAINED FOR 120 EPOCHS
 ![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Sat2map.png)
 
 
