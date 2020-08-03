@@ -6,5 +6,14 @@
 ![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Pix2pix%20Wloss.png)
 ### 2. Pix2Pix using Binary Cross Entropy :
 ![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Pix2pixBCE.PNG)
-### 3. 
+### 3. SAT2MAP 
 ![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Sat2map.png)
+
+
+```
+@inproceedings{CycleGAN2017,
+  title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss},
+  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
+  booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on},
+  year={2017}
+}```
